@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-test",
+  "version": "1.0.0",
+  "description": "A test for tailwind",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tailwind": "^2.4.1",
+    "tailwindcss": "^0.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
