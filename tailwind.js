@@ -227,6 +227,10 @@ module.exports = {
       'Courier New',
       'monospace',
     ],
+    'muli': [
+      'Muli',
+      'sans-serif'
+    ]
   },
 
 

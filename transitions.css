@@ -1,0 +1,7 @@
+input + label {
+    transition: 1s;
+}
+
+input:focus + label {
+    transform: translateY(-25px);
+}
