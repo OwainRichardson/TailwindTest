@@ -1,7 +1,12 @@
 input + label {
-    transition: 1s;
+    transition: 0.5s;
 }
 
 input:focus + label {
     transform: translateY(-25px);
+    color: black;
+}
+
+input:focus {
+    border-bottom-color: blue;
 }
